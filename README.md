@@ -2,11 +2,6 @@
 
 AutoDrive est une application Android native en Kotlin pour la location de voitures. Elle permet a un utilisateur de consulter des voitures, filtrer le catalogue, reserver un vehicule, consulter ses reservations, gerer son profil et laisser des evaluations. Un espace administrateur permet aussi de gerer les voitures disponibles.
 
-## Membres de l'equipe
-
-- Bafing Keita
-- Nzogang Kamte Myguel Wilfried
-- Wilkins Saintil
 
 ## Fonctionnalites principales
 
